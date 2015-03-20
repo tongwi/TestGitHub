@@ -3,3 +3,4 @@ Changes in branch
 
 Test Git Gui
 Test Git Gui 2
+Test Git Gui 3
